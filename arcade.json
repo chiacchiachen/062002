@@ -1,0 +1,24 @@
+{
+	"name": "性平不小室",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "wl4vm34lc3k",
+	"viewport-width": 3840,
+	"viewport-height": 2160,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r344.2",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"Mouse",
+		"Touch",
+		"video",
+		"Text"
+	],
+	"used-behaviors": []
+}
